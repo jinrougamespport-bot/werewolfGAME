@@ -1,0 +1,7 @@
+{
+    "ayumu": {
+        "password": "scrypt:32768:8:1$jk2JcgWGlDwLtipV$9a99e4a507ec0ce9ce93ce387fb515a65a3a54d76f1175ca392bdfbbc84086a1cb722d36e578dd715b05e5c5d886dea3f49926156baff66ae25dce0839438ecd",
+        "wins": 0,
+        "losses": 0
+    }
+}
